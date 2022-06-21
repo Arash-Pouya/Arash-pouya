@@ -23,22 +23,24 @@
   </a>
   
  <hr>
+ <div>
 <a href="https://github.com/Arash-Pouya">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Pouya"/>
 </a>
 <a href="https://github.com/Arash-Pouya">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Arash-Pouya&show_icons=true&count_private=true&include_all_commits=true"/></a>
+ </div>
 
 
+
+<h2> 📫 How to reach me: </h2>
 <div align="center">
   <a href="www.linkedin.com/in/arash-pouya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <hr>
     <a href="mailto:arash.pouya.c@gmailo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <hr>
     <a href="https://wa.me/+989907859740">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
