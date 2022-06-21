@@ -32,6 +32,8 @@
  </div>
 
 
+<hr>
+
 
 <h2> 📫 How to reach me: </h2>
 <div align="center">
