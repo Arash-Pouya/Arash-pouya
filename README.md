@@ -21,7 +21,7 @@
     <a href="">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-<!--   
+
  <hr>
  <div>
 <a href="https://github.com/Arash-Pouya">
@@ -30,7 +30,7 @@
 <a href="https://github.com/Arash-Pouya">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Arash-Pouya&show_icons=true&count_private=true&include_all_commits=true"/></a>
  </div>
- -->
+ 
 
 <hr>
 
