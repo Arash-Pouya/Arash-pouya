@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
 
- <hr>
+<!--  <hr>
  <div>
 <a href="https://github.com/Arash-Pouya">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arash-Pouya"/>
@@ -32,7 +32,7 @@
  </div>
  
 
-<hr>
+<hr> -->
 
 
 <h2> 📫 How to reach me: </h2>
